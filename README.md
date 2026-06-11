@@ -1,4 +1,4 @@
-## 💙💻Olá, eu sou a Nátaly!
+## 💙💻Olá, eu sou a Nátaly!  
 
   🎓 Técnica em Informática para Internet pela Etec Albert Einstein    
   
