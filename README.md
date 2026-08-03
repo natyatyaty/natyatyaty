@@ -8,7 +8,6 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=natyatyaty&layout=compact&theme=prussian&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natyatyaty&theme=prussian"/>
 </div>
     
 ##
