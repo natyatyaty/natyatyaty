@@ -29,3 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](<https://www.linkedin.com/in/nátalylima/>)
   
 </div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2699E6&section=footer"/>
+</div>
