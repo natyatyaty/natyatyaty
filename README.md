@@ -17,7 +17,20 @@
   <img alt="Python" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="Pandas" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
   <img alt="Seaborn" align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg"/>
-</div>  
+</div>
+
+<br><br>
+
+### Stats:
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=natyatyaty&theme=dark&hide_border=true&background=0D1117&ring=2699E6&fire=2699E6&currStreakLabel=2699E6"/>
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=natyatyaty&theme=default&hide_border=true&ring=B8860B&fire=B8860B&currStreakLabel=B8860B"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=natyatyaty"/>
+</picture>
+</a>
+
+</div>
 
 ##
 
