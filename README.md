@@ -28,9 +28,12 @@
 <img width="65%" src="https://streak-stats.demolab.com?user=natyatyaty"/>
 </picture>
 </a>
-
+<br><br>
+<div align="center">
+  <img width="85%" src="https://ghchart.rshah.org/58a6ff/natyatyaty" alt="Gráfico de Contribuições" />
 </div>
-
+<br><br>
+  
 ##
 
 <div align="center">
